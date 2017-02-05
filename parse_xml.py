@@ -3,7 +3,7 @@
 * User: xiangtian.hu
 * Date: 15-10-9
 * Time: 13:20
-* Desc: Add Desc for this
+* Desc: Add Desc for this, modify in branch
 """ 
 from  xml.dom import  minidom
 
