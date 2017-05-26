@@ -5,13 +5,16 @@
 * Time: 13:20
 * Desc: Add Desc for this, modify in branch
 """ 
-from  xml.dom import  minidom
+from xml.dom import minidom
+
 
 def get_attrvalue(node, attrname):
      return node.getAttribute(attrname) if node else ''
 
+
 def get_nodevalue(node, index = 0):
     return node.childNodes[index].nodeValue if node else ''
+
 
 def get_xmlnode(node,name):
     return node.getElementsByTagName(name) if node else []
@@ -44,18 +47,20 @@ def get_xml_data(filename='user.xml'):
         user_list.append(user)
     return user_list
 
+
 def test_xmltostring():
-    print xml_to_string()
+    print(xml_to_string())
+
 
 def test_load_xml():
     user_list = get_xml_data()
     for user in user_list :
-        #print user['sex']
-        print '-----------------------------------------------------'
+        # print user['sex']
+        print('-----------------------------------------------------')
         if user:
             user_str='NumberId:%d\nUserName:%s\nSex:%s\nAge:%s\nEmail:%s\n ' % (int(user['id']) , user['username'], user['sex'] , user['age'] , user['email'])
-            print user_str
-            print '====================================================='
+            print(user_str)
+            print('=====================================================')
 
 if __name__ == "__main__":
     test_xmltostring()
