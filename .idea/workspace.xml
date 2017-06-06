@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f59ca1e-0094-44a9-8eb3-e2cdf403bb42" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hello_world.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parse_xml.py" afterPath="$PROJECT_DIR$/parse_xml.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,33 +14,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="do_flask.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web_app/do_flask.py">
+      <file leaf-file-name="decorator_usage.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/decorator_usage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-              <folding>
-                <element signature="e#48#71#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="server.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web_app/server.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="341">
+              <caret line="45" column="4" lean-forward="false" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="desc_test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/desc_test.py">
+      <file leaf-file-name="permutation_sequence.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leet_code/permutation_sequence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+            <state relative-caret-position="255">
+              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -66,6 +53,8 @@
         <option value="$PROJECT_DIR$/class_learning/attribute_example.py" />
         <option value="$PROJECT_DIR$/web_app/do_flask.py" />
         <option value="$PROJECT_DIR$/web_app/server.py" />
+        <option value="$PROJECT_DIR$/leet_code/permutation_sequence.py" />
+        <option value="$PROJECT_DIR$/decorator_usage.py" />
       </list>
     </option>
   </component>
@@ -92,6 +81,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -104,9 +94,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pytest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pytest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leet_code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -131,7 +134,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.decorator_usage">
+    <configuration default="false" name="permutation_sequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leet_code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pytest" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet_code/permutation_sequence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="decorator_usage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pytest" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decorator_usage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,6 +235,16 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.permutation_sequence" />
+      <item index="1" class="java.lang.String" itemvalue="Python.decorator_usage" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.decorator_usage" />
+        <item index="1" class="java.lang.String" itemvalue="Python.permutation_sequence" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -212,24 +261,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20451528" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29482073" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -237,22 +287,79 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint suspend="NONE" type="python-exception">
+          <properties exception="BaseException" />
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="6" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hello_world.py">
+    <entry file="file://$PROJECT_DIR$/hello_world.py" />
+    <entry file="file://$PROJECT_DIR$/ode_equation.py" />
+    <entry file="file://$PROJECT_DIR$/numpy_usage/sir_ode_equation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ode_equation.py">
+    <entry file="file://$PROJECT_DIR$/numpy_usage/sir_ode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="34">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numpy_usage/model_ode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-112">
+          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_learning/student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_learning/over_writen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.1/python_stubs/-1699152244/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="3614" column="8" lean-forward="false" selection-start-line="3614" selection-start-column="8" selection-end-line="3614" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_app/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desc_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -261,45 +368,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/numpy_usage/sir_ode_equation.py">
+    <entry file="file://$PROJECT_DIR$/json_mixin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#78#112#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/numpy_usage/sir_ode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-          <folding>
-            <element signature="e#46#80#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/numpy_usage/model_ode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-112">
-          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class_learning/student.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-169">
+          <caret line="1" column="36" lean-forward="false" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -307,48 +382,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class_learning/over_writen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/json_mixin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="36" lean-forward="false" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web_app/do_flask.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="-84">
           <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-          <folding>
-            <element signature="e#48#71#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web_app/server.py">
+    <entry file="file://$PROJECT_DIR$/leet_code/permutation_sequence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desc_test.py">
+    <entry file="file://$PROJECT_DIR$/decorator_usage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        <state relative-caret-position="341">
+          <caret line="45" column="4" lean-forward="false" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
           <folding />
         </state>
       </provider>
