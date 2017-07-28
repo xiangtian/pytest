@@ -41,6 +41,6 @@ if __name__ == "__main__":
     child.foo()
 
     # Child2 does't def __init__, create subClass instance need using Parent __init__
-    child2 = Child2("Child2")
+    child2 = Child2("Child2")  # Here is Child2 class
     print(child2.name)
 
